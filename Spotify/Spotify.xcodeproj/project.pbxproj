@@ -29,6 +29,7 @@
 		BA291A1629E9218B00333D53 /* AudioTrack.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA291A1529E9218B00333D53 /* AudioTrack.swift */; };
 		BA291A1829E921A500333D53 /* Artist.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA291A1729E921A500333D53 /* Artist.swift */; };
 		BA291A1A29E921BE00333D53 /* UserProfile.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA291A1929E921BE00333D53 /* UserProfile.swift */; };
+		BAFC0C7F29E9FE960073F85A /* Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFC0C7E29E9FE960073F85A /* Extension.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -56,6 +57,7 @@
 		BA291A1529E9218B00333D53 /* AudioTrack.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AudioTrack.swift; sourceTree = "<group>"; };
 		BA291A1729E921A500333D53 /* Artist.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Artist.swift; sourceTree = "<group>"; };
 		BA291A1929E921BE00333D53 /* UserProfile.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserProfile.swift; sourceTree = "<group>"; };
+		BAFC0C7E29E9FE960073F85A /* Extension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Extension.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -150,6 +152,7 @@
 				BA165C4529E90CA600763080 /* Assets.xcassets */,
 				BA165C3E29E90CA500763080 /* SceneDelegate.swift */,
 				BA165C3C29E90CA500763080 /* AppDelegate.swift */,
+				BAFC0C7E29E9FE960073F85A /* Extension.swift */,
 			);
 			path = Resources;
 			sourceTree = "<group>";
@@ -258,6 +261,7 @@
 				BA2919F829E91F8200333D53 /* TabBarViewController.swift in Sources */,
 				BA291A1229E9215000333D53 /* HapticsManager.swift in Sources */,
 				BA291A1629E9218B00333D53 /* AudioTrack.swift in Sources */,
+				BAFC0C7F29E9FE960073F85A /* Extension.swift in Sources */,
 				BA165C4129E90CA500763080 /* HomeViewController.swift in Sources */,
 				BA291A0029E9203B00333D53 /* AuthViewController.swift in Sources */,
 				BA165C3D29E90CA500763080 /* AppDelegate.swift in Sources */,
