@@ -29,6 +29,7 @@
 		BA291A1629E9218B00333D53 /* AudioTrack.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA291A1529E9218B00333D53 /* AudioTrack.swift */; };
 		BA291A1829E921A500333D53 /* Artist.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA291A1729E921A500333D53 /* Artist.swift */; };
 		BA291A1A29E921BE00333D53 /* UserProfile.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA291A1929E921BE00333D53 /* UserProfile.swift */; };
+		BAD32D8229EA4BAA004B4BC0 /* AuthResponse.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAD32D8129EA4BAA004B4BC0 /* AuthResponse.swift */; };
 		BAFC0C7F29E9FE960073F85A /* Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFC0C7E29E9FE960073F85A /* Extension.swift */; };
 /* End PBXBuildFile section */
 
@@ -57,6 +58,7 @@
 		BA291A1529E9218B00333D53 /* AudioTrack.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AudioTrack.swift; sourceTree = "<group>"; };
 		BA291A1729E921A500333D53 /* Artist.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Artist.swift; sourceTree = "<group>"; };
 		BA291A1929E921BE00333D53 /* UserProfile.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserProfile.swift; sourceTree = "<group>"; };
+		BAD32D8129EA4BAA004B4BC0 /* AuthResponse.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AuthResponse.swift; sourceTree = "<group>"; };
 		BAFC0C7E29E9FE960073F85A /* Extension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Extension.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -125,6 +127,7 @@
 				BA291A1529E9218B00333D53 /* AudioTrack.swift */,
 				BA291A1729E921A500333D53 /* Artist.swift */,
 				BA291A1929E921BE00333D53 /* UserProfile.swift */,
+				BAD32D8129EA4BAA004B4BC0 /* AuthResponse.swift */,
 			);
 			path = Models;
 			sourceTree = "<group>";
@@ -260,6 +263,7 @@
 				BA291A0629E9209500333D53 /* ProfileViewController.swift in Sources */,
 				BA2919F829E91F8200333D53 /* TabBarViewController.swift in Sources */,
 				BA291A1229E9215000333D53 /* HapticsManager.swift in Sources */,
+				BAD32D8229EA4BAA004B4BC0 /* AuthResponse.swift in Sources */,
 				BA291A1629E9218B00333D53 /* AudioTrack.swift in Sources */,
 				BAFC0C7F29E9FE960073F85A /* Extension.swift in Sources */,
 				BA165C4129E90CA500763080 /* HomeViewController.swift in Sources */,
